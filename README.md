@@ -5,3 +5,4 @@
 
 
 ![Visitor Count](https://profile-counter.glitch.me/wail-abbas/count.svg)
+https://profile-counter.glitch.me/wail-abbas/count.svg
