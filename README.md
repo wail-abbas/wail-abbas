@@ -1,9 +1,10 @@
-<!--
-**wail-abbas/wail-abbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Wail Ahmed
+Python | POSTGRESQL | Docker | Oracle
 
 
-![Visitor Count](https://profile-counter.glitch.me/wail-abbas/count.svg)
+* Primary coding language: Python.
+* I’m currently looking for a new opportunity as Data Scientist | Data Engineer.
 
-![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
 
-
+ ![Visitor Count](https://profile-counter.glitch.me/{wail-ahmed}/count.svg)
+ 
