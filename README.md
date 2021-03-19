@@ -1,5 +1,5 @@
 # Wail Ahmed
-Python | POSTGRESQL | Docker | Oracle
+Python | PostgreSQL | Docker | Oracle
 
 
 * Primary coding language: Python.
